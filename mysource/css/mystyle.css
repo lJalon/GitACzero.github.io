@@ -187,7 +187,7 @@ img[src*="#img-radius"] {
 }  */
 
 
-main#content-inner, #footer{
+main#content-inner{
     border-width: 30px;
     padding-top: 20px;
     background-color: #ffffff5e;
@@ -235,9 +235,8 @@ div.card-content{
 
 
 /* 去掉全局顶部图片 */
-#footer-wrap{
+#footer{
     background: transparent !important;
-
 } 
 
 #pagination .page-number {
