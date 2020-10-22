@@ -190,8 +190,8 @@ img[src*="#img-radius"] {
 main#content-inner{
     border-width: 30px;
     padding-top: 20px;
-    background-color: #ffffff5e;
-    box-shadow: 0px 5px 10px 8px #ffffff;
+    /* background-color: #ffffff5e; */
+    /* box-shadow: 0px 5px 10px 8px #ffffff; */  /*边框效果*/
 }
 
 
