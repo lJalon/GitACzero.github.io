@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>天择</title>
+  <icon>http://gitaczero.github.io/icon.png</icon>
+  <subtitle>Zero</subtitle>
+  <link href="http://gitaczero.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://gitaczero.github.io/"/>
+  <updated>2020-10-22T11:16:11.612Z</updated>
+  <id>http://gitaczero.github.io/</id>
+  
+  <author>
+    <name>Zero</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://gitaczero.github.io/2020/10/22/hello-world/"/>
+    <id>http://gitaczero.github.io/2020/10/22/hello-world/</id>
+    <published>2020-10-22T11:16:11.609Z</published>
+    <updated>2020-10-22T11:16:11.612Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>butterfly教程（一）入门安装</title>
+    <link href="http://gitaczero.github.io/2020/10/19/butterfly%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89%E5%85%A5%E9%97%A8%E5%AE%89%E8%A3%85/"/>
+    <id>http://gitaczero.github.io/2020/10/19/butterfly%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89%E5%85%A5%E9%97%A8%E5%AE%89%E8%A3%85/</id>
+    <published>2020-10-19T14:34:39.000Z</published>
+    <updated>2020-10-21T15:57:56.746Z</updated>
+    
+    
+    <summary type="html">基于hexo框架搭建的博客，在本地显示博客主题最原始的效果！</summary>
+    
+    
+    
+    <category term="butterfly教程" scheme="http://gitaczero.github.io/categories/butterfly%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="hexo" scheme="http://gitaczero.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>butterfly教程（二）基本功能</title>
+    <link href="http://gitaczero.github.io/2020/10/18/butterfly%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD/"/>
+    <id>http://gitaczero.github.io/2020/10/18/butterfly%E6%95%99%E7%A8%8B%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD/</id>
+    <published>2020-10-18T05:48:12.394Z</published>
+    <updated>2020-10-22T11:51:26.400Z</updated>
+    
+    
+    <summary type="html">教程（一）已经搭建好博客框架，接下来本篇内容就是手把手教你把博客的基本的功能完善！</summary>
+    
+    
+    
+    <category term="butterfly教程" scheme="http://gitaczero.github.io/categories/butterfly%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="hexo" scheme="http://gitaczero.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
