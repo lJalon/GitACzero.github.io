@@ -159,8 +159,6 @@ kbd {
 
 
 
-
-
 /* 页码底色======================================= */
 #pagination .page-number {
     background-color: cornsilk;
@@ -170,7 +168,6 @@ a.extend.net{
 }
 
 /* ================================================ */
-
 
 
 /* md图片样式 =======================================*/
@@ -186,13 +183,6 @@ img[src*="#img-radius"] {
     background: transparent !important;
 }  */
 
-
-main#content-inner{
-    border-width: 30px;
-    padding-top: 20px;
-    /* background-color: #ffffff5e; */
-    /* box-shadow: 0px 5px 10px 8px #ffffff; */  /*边框效果*/
-}
 
 
 /* 侧边栏 */
@@ -223,23 +213,39 @@ div.card-content{
 }
 #recent-posts>.recent-post-item .post_cover img.post_bg{ /*文章封面*/
     opacity: 0.78;
-    transform: translateX(80px); /*x轴移动*/
+    transform: translateX(-60px); /*x轴移动*/
 }
 #recent-posts > .recent-post-item:hover { 
     -webkit-box-shadow: 0 4px 12px 12px #fffefe inset;
     /* box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #fffefe ; */
-    box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #06d8fde8 ;
+    box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #f1f3f3a2 ;
     background-color: #fffefec4;
 }
 
-/* 去掉全局顶部图片 */
+
+
+/* 去掉footer背景================================================*/
 #footer{
     background: transparent !important;
 } 
+/* end========================================================= */
 
-#pagination .page-number {
-    background-color: cornsilk;
+
+
+
+
+
+
+/* 文章详情页===================================================== */
+div#post{
+    background-color: rgba(255, 255, 255, 0.57);
+    box-shadow: 0 0px 10px 5px #fffefe inset;
 }
-a.extend.net{
-    background-color: cornsilk;
+
+div#post:hover{
+    -webkit-box-shadow: 0 4px 12px 12px #fffefe inset;
+    /* box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #fffefe ; */
+    box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #06d8fde8 ;
+    background-color: #04fcf08a;
 }
+/* 文章详情========================================================= */
