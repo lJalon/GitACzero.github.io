@@ -6,7 +6,7 @@
   <link href="http://gitaczero.github.io/atom.xml" rel="self"/>
   
   <link href="http://gitaczero.github.io/"/>
-  <updated>2020-10-22T11:16:11.612Z</updated>
+  <updated>2020-10-23T00:52:03.370Z</updated>
   <id>http://gitaczero.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown学习</title>
+    <link href="http://gitaczero.github.io/2020/10/23/Markdown%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://gitaczero.github.io/2020/10/23/Markdown%E5%AD%A6%E4%B9%A0/</id>
+    <published>2020-10-23T00:50:13.000Z</published>
+    <updated>2020-10-23T00:52:03.370Z</updated>
+    
+    
+    <summary type="html">从小白开始学习记录markdown的书写技巧</summary>
+    
+    
+    
+    <category term="知识储备" scheme="http://gitaczero.github.io/categories/%E7%9F%A5%E8%AF%86%E5%82%A8%E5%A4%87/"/>
+    
+    
+    <category term="markdown" scheme="http://gitaczero.github.io/tags/markdown/"/>
+    
+    <category term="技能" scheme="http://gitaczero.github.io/tags/%E6%8A%80%E8%83%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
