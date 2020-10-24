@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>天择</title>
+  <title>天择岁月</title>
   <icon>http://surpsec.github.io/icon.png</icon>
-  <subtitle>Zero</subtitle>
+  <subtitle>🔪</subtitle>
   <link href="http://surpsec.github.io/atom.xml" rel="self"/>
   
   <link href="http://surpsec.github.io/"/>

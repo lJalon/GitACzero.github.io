@@ -204,10 +204,6 @@ div.card-content{
 /* 文章流*/
 #recent-posts>.recent-post-item {
     padding: 10px;
-    /* width: 850px;
-
-    padding: 10px;
-    transform: translateX(20px); */
     background-color: rgba(255, 255, 255, 0.57);
     box-shadow: 0 0px 10px 5px #fffefe inset;
 }
@@ -218,11 +214,25 @@ div.card-content{
 #recent-posts > .recent-post-item:hover { 
     -webkit-box-shadow: 0 4px 12px 12px #fffefe inset;
     /* box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #fffefe ; */
-    box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #f1f3f3a2 ;
+    box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #06d8fde8 ;
     background-color: #fffefec4;
 }
 
 
+/* 文章详情页===================================================== */
+div#post{
+    /* background-color: rgba(165, 165, 165, 0.57); */
+    font-size: 16px;
+    box-shadow: 0 0px 10px 5px #fffefe inset;
+}
+
+div#post:hover{
+    -webkit-box-shadow: 0 4px 12px 12px #fffefe inset;
+    /* box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #fffefe ; */
+    box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #06d8fde8 ;
+    /* background-color: #04fcf08a; */
+}
+/* 文章详情========================================================= */
 
 /* 去掉footer背景================================================*/
 #footer{
@@ -235,17 +245,3 @@ div.card-content{
 
 
 
-
-/* 文章详情页===================================================== */
-div#post{
-    background-color: rgba(255, 255, 255, 0.57);
-    box-shadow: 0 0px 10px 5px #fffefe inset;
-}
-
-div#post:hover{
-    -webkit-box-shadow: 0 4px 12px 12px #fffefe inset;
-    /* box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #fffefe ; */
-    box-shadow: 0 0px 10px 5px #fffefe inset,0 0px 10px 5px #06d8fde8 ;
-    background-color: #04fcf08a;
-}
-/* 文章详情========================================================= */
