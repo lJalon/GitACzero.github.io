@@ -6,7 +6,7 @@
   <link href="http://surpsec.github.io/atom.xml" rel="self"/>
   
   <link href="http://surpsec.github.io/"/>
-  <updated>2020-10-23T09:03:38.272Z</updated>
+  <updated>2020-10-24T02:31:14.551Z</updated>
   <id>http://surpsec.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Valine出现Code 403: Access denied by API domain white list</title>
+    <link href="http://surpsec.github.io/2020/10/24/Valine%E5%87%BA%E7%8E%B0Code-403-Access-denied-by-API-domain-white-list/"/>
+    <id>http://surpsec.github.io/2020/10/24/Valine%E5%87%BA%E7%8E%B0Code-403-Access-denied-by-API-domain-white-list/</id>
+    <published>2020-10-24T01:37:27.000Z</published>
+    <updated>2020-10-24T02:31:14.551Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;项目场景&quot;&gt;&lt;a href=&quot;#项目场景&quot; class=&quot;headerlink&quot; title=&quot;项目场景&quot;&gt;&lt;/a&gt;项目场景&lt;/h2&gt;&lt;p&gt;  部署到阿里的新域名后，在Valine评论框后出现Code 403: Access denied by API</summary>
+        
+      
+    
+    
+    
+    <category term="issues" scheme="http://surpsec.github.io/categories/issues/"/>
+    
+    
+    <category term="valine" scheme="http://surpsec.github.io/tags/valine/"/>
+    
+    <category term="403" scheme="http://surpsec.github.io/tags/403/"/>
+    
+  </entry>
   
   <entry>
     <title>Commit failed - exit code 1 received</title>
@@ -443,31 +470,6 @@
     <category term="Markdown" scheme="http://surpsec.github.io/tags/Markdown/"/>
     
     <category term="vscode" scheme="http://surpsec.github.io/tags/vscode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>图床</title>
-    <link href="http://surpsec.github.io/2020/10/09/%E5%9B%BE%E5%BA%8A/"/>
-    <id>http://surpsec.github.io/2020/10/09/%E5%9B%BE%E5%BA%8A/</id>
-    <published>2020-10-08T23:45:43.919Z</published>
-    <updated>2020-10-23T10:47:13.155Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;什么是图床？&quot;&gt;&lt;a href=&quot;#什么是图床？&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="知识储备" scheme="http://surpsec.github.io/categories/%E7%9F%A5%E8%AF%86%E5%82%A8%E5%A4%87/"/>
-    
-    
-    <category term="Blog" scheme="http://surpsec.github.io/tags/Blog/"/>
     
   </entry>
   
