@@ -6236,10 +6236,3 @@ blockquote.pullquote.right {
     max-height: 75vh !important;
   }
 }
-.hans-container {
-  position: fixed;
-  bottom: 0px;
-  width: 100%;
-  height: 120px;
-  z-index: -1;
-}
