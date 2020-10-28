@@ -1,5 +1,3 @@
-<script src="<%- theme.plugins.clipboard.js %>"></script>
-
     var clipboard = new ClipboardJS('.btn-copy', {
         target: function (trigger) {
             return trigger.nextElementSibling
