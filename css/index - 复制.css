@@ -1342,11 +1342,11 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: -webkit-linear-gradient(30deg, rgba(202, 228, 231, 0.151) 5%, rgba(230, 242, 243, 0.541)),url("https://ftp.bmp.ovh/imgs/2020/10/665b1edbb7807542.jpg");;
-  background: -moz-linear-gradient(30deg, rgba(202, 228, 231, 0.151) 5%, rgba(230, 242, 243, 0.541)),url("https://ftp.bmp.ovh/imgs/2020/10/665b1edbb7807542.jpg");;
-  background: -o-linear-gradient(30deg, rgba(202, 228, 231, 0.151) 5%, rgba(230, 242, 243, 0.541)),url("https://ftp.bmp.ovh/imgs/2020/10/665b1edbb7807542.jpg");;
-  background: -ms-linear-gradient(30deg, rgba(202, 228, 231, 0.151) 5%, rgba(230, 242, 243, 0.541)),url("https://ftp.bmp.ovh/imgs/2020/10/665b1edbb7807542.jpg");;
-  background: linear-gradient(60deg, rgba(202, 228, 231, 0.151) 5%, rgba(230, 242, 243, 0.541)),url("https://ftp.bmp.ovh/imgs/2020/10/665b1edbb7807542.jpg");;
+  background: -webkit-linear-gradient(30deg, rgba(216, 230, 231, 0.151) 5%, rgba(230, 242, 243, 0.295)),url("https://kyun.ltyuanfang.cn/tc/2020/10/28/794a3cbc64967.jpg");;
+  background: -moz-linear-gradient(30deg, rgba(216, 230, 231, 0.151) 5%, rgba(230, 242, 243, 0.295)),url("https://kyun.ltyuanfang.cn/tc/2020/10/28/794a3cbc64967.jpg");;
+  background: -o-linear-gradient(30deg, rgba(216, 230, 231, 0.151) 5%, rgba(230, 242, 243, 0.295)),url("https://kyun.ltyuanfang.cn/tc/2020/10/28/794a3cbc64967.jpg");;
+  background: -ms-linear-gradient(30deg, rgba(216, 230, 231, 0.151) 5%, rgba(230, 242, 243, 0.295)),url("https://kyun.ltyuanfang.cn/tc/2020/10/28/794a3cbc64967.jpg");;
+  background: linear-gradient(60deg, rgba(216, 230, 231, 0.151) 5%, rgba(230, 242, 243, 0.295)),url("https://kyun.ltyuanfang.cn/tc/2020/10/28/794a3cbc64967.jpg");;
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -1393,7 +1393,7 @@ hr:before {
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
-  content: '\3423';
+  content: '\f0c4';
   font-size: 20px;
   line-height: 1;
   -webkit-transition: all 1s ease-in-out;
