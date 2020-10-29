@@ -230,7 +230,14 @@ div#post:hover{
     background:#fdf6e3;
 }
 
-
+/* 主页面div */
+main#content-inner.layout {
+    border-width: 30px;
+    padding-top: 20px;
+    background-color: #ffffff5e;
+    box-shadow: 0px 5px 10px 8px #ffffff;
+    margin: auto;
+}
 
 
 
@@ -303,7 +310,7 @@ div#post:hover{
         /* 不允许插入任何中断 */
         break-inside: avoid;
         box-sizing: border-box;
-        height:auto !important;
+        height: 250px !important;
         width: 100%;
 }
 
@@ -341,12 +348,3 @@ div#post:hover{
     background: palegreen;
 }
 
-/* 主页面div */
-main#content-inner.layout_page {
-    border-width: 30px;
-    padding-top: 20px;
-    background-color: #ffffff5e;
-    box-shadow: 0px 5px 10px 8px #ffffff;
-    /* width: 1100px; */
-    margin: auto;
-}
